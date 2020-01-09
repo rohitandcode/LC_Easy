@@ -16,7 +16,7 @@ def test_balance(tree):
     
     i
     
-    if height > 1:
-        return False
-    return True
+    if height == 0 or height == 1:
+        return True
+    return False
     
