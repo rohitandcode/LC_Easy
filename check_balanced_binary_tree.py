@@ -11,12 +11,3 @@ This can be represented as a list - [12,14,22,15,19]
 """
          
          
-         
-def test_balance(tree):
-    
-    i
-    
-    if height == 0 or height == 1:
-        return True
-    return False
-    
